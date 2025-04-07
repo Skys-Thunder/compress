@@ -1,11 +1,11 @@
 動画圧縮用スクリプト by Sky_Thunder
 
 このスクリプトで出来る事
-ffmpegを用いて、originalフォルダにあるmp4ファイルを全て圧縮し、compressedファイルに保存します。
+ffmpegを用いて、originalフォルダにあるmp4ファイルを全て圧縮し、compressedフォルダに保存します。
 
 使い方
 インストールするためには、install.batを実行してください。
-install.batは正常に実行が完了すると自動で削除されます。(削除されない場合はもう一度実行してください)
+install.batは正常に実行が完了すると「original」「compressed」というフォルダが作られ、install.batは自動で削除されます。(削除されない場合はもう一度実行してください)
 インストールが完了したら、その後は圧縮したいときにcomp.batを実行すれば圧縮されます。
 
 comp.batの中身について
