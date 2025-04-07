@@ -1,0 +1,1 @@
+for %%f in (original/*.mp4) do ffmpeg -i "original/%%f" -crf 28 "compressed/compressed_%%f"
